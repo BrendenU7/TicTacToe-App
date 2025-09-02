@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tictactoe</string>
+    <string name="initial_text"></string>
+    <string name="new_game">New Game</string>
+    <string name="player_x_turn">Ready Player X</string>
+    <string name="player_o_turn">Ready Player O</string>
+    <string name="player_x_wins">Player X wins</string>
+    <string name="player_o_wins">Player O wins</string>
+    <string name="game_draw">The game is a draw</string>
+    <string name="x_wins_count">Player X Wins: %d</string>
+    <string name="o_wins_count">Player O Wins: %d</string>
+    <string name="draws_count">Draws: %d</string>
+</resources>
